@@ -1,13 +1,22 @@
 Corporate Financial Analysis – Capital Budgeting & Investment Decision Project
+
 Project Overview
+
 This project evaluates two competing capital investment opportunities using industry-standard capital budgeting techniques commonly performed by Financial Analysts, FP&A Analysts, Corporate Finance Analysts, and Investment Analysts.
+
 The objective was to determine which project would create the greatest shareholder value while understanding how changes in the firm's cost of capital influence investment decisions.
+
 Rather than relying on a single financial metric, this analysis combines multiple valuation techniques to compare profitability, investment efficiency, project lifespan, and sensitivity to changing market conditions.
+
 Business Scenario
 A company must decide between two mutually exclusive investment projects.
+
 Each project requires a different initial investment, generates unique future cash flows, and has different project lives.
+
 The goal is to determine which project should be accepted using several corporate finance valuation techniques instead of relying on a single metric.
+
 Step 1 – Organized Project Cash Flows
+
 The first step involved organizing each project's projected cash inflows and initial investment into Microsoft Excel.
 This established the financial model that served as the foundation for every subsequent analysis.
 The cash flow schedule included:
